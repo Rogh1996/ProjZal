@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Odziemski-PZ
+Version: 1.0.0
+Summary: Projekt zaliczeniowy
+Home-page: http://github.com/Rogh1996/ProjektZaliczeniowy
+Author: Rafał Odziemski
+Author-email: r.odziemski@student.uw.edu.pl
+License: MIT
+Description: Tu znajduje się opis programu.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

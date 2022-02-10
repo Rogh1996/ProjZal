@@ -1,0 +1,1 @@
+Tu znajduje się opis programu.

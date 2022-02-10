@@ -1,0 +1,12 @@
+README.md
+setup.py
+OdziemskiProjektZaliczeniowy/main.py
+OdziemskiProjektZaliczeniowy/obliczanie.py
+OdziemskiProjektZaliczeniowy/test_projekt.py
+OdziemskiProjektZaliczeniowy/wczytywanie.py
+OdziemskiProjektZaliczeniowy/wyjątki.py
+Odziemski_PZ.egg-info/PKG-INFO
+Odziemski_PZ.egg-info/SOURCES.txt
+Odziemski_PZ.egg-info/dependency_links.txt
+Odziemski_PZ.egg-info/requires.txt
+Odziemski_PZ.egg-info/top_level.txt
